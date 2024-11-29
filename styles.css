@@ -1,0 +1,22 @@
+p {
+    color: red;
+  }
+  
+  .special {
+    color: inherit; /* Tomará el color del elemento padre */
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+    color: #7d0dd8;
+  }
+  
+  h1 {
+    font-size: 2em;
+    color: inherit; /* Hereda el color del body */
+  }
+  
+  p {
+    line-height: 1.6;
+  }
+  
